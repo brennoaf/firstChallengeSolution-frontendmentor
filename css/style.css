@@ -49,7 +49,7 @@ body{
 .product-image{
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../../images/image-product-desktop.jpg");
+  background-image: url("../images/image-product-desktop.jpg");
   background-position-x: -9px;
   width: 100%;
   
